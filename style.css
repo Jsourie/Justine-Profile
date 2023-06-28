@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header, footer, h2 {
+  text-align: center;
+}
+
+main, header, footer{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dark-background{
+ background-color: black;
+ color: white;
+}
+
+
+.gray-background{
+  background-color: #6E6D69;
+}
+
+body{
+  background-color: #D9D9DB;
+}
